@@ -1,0 +1,17 @@
+{
+  "install": "bash glitch-install",
+  "start": "cabal install && cabal run",
+  "watch": {
+    "install": {
+      "include": [
+        "\\.cabal$"
+      ]
+    },
+    "restart": {
+      "include": [
+        "\\.hs$"
+      ]
+    },
+    "throttle": 1000
+  }
+}
