@@ -1,9 +1,10 @@
 Welcome to Glitch
 =================
 
-A haskell and cabal boilerplate project that runs on glitch.me.
-The package cache is set to /tmp/.cache/packages in the config file (/app/.cabal/config)
-to avoid running out of disk space during installation.
+A haskell and cabal API boilerplate project that runs on glitch.me.
+The package cache is set to /tmp/.cache/packages in the config 
+file (/app/.cabal/config) to avoid running out of disk space when 
+running `cabal install`.
 
 Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
@@ -15,17 +16,14 @@ Find out more [about Glitch](https://glitch.com/about).
 Your Project
 ------------
 
-On the front-end,
-- edit `public/client.js`, `public/style.css` and `views/index.html`
-- drag in `assets`, like images or music, to add them to your project
-
-On the back-end,
-- your app starts at `server.js`
-- add frameworks and packages in `package.json`
+For this server,
+- the app starts at `src/Main.hs`
+- add package dependencies in `webapp.cabal`
 - safely store app secrets in `.env` (nobody can see this but you and people you invite)
+  - then lookup those values with `Environment.lookupEnv "SECRET_KEY"`
 
 
-Made by [Glitch](https://glitch.com/)
+Made on [Glitch](https://glitch.com/)
 -------------------
 
 \ ゜o゜)ノ
