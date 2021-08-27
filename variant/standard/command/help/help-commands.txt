@@ -1,0 +1,5 @@
+Help commands:
+- `help commands [-a | --all]`
+- `help roles [-a | --all]`
+- `help rules [-a | --all]`
+- `help variants [-a | --all]`
