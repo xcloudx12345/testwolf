@@ -1,1 +1,0 @@
-- The #{humanise necromancerRole} wakes up and may raise the dead.

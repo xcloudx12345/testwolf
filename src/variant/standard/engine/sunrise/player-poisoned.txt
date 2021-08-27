@@ -1,1 +1,0 @@
-Upon further discovery, it looks like the #{humanise witchRole} struck in the night. #{humanise player} the #{humanise $ player ^. role} is hanging over the side of their bed, poisoned.

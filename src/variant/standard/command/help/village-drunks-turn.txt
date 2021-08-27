@@ -1,1 +1,0 @@
-- (Third round only) the #{humanise villageDrunkRole} sobers up and remembers their allegiance.

@@ -1,4 +1,0 @@
-#{humanise witchRole} commands:
-- `heal`
-- `poison PLAYER`
-- `pass`

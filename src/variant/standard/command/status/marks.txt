@@ -1,1 +1,0 @@
-Your marks are as follows: #{humanise $ map humanisePlayerWithState marks'}.

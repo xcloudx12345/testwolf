@@ -1,1 +1,0 @@
-#{humanise caller} voted to devour #{humanise target}.

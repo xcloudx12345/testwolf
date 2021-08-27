@@ -1,1 +1,0 @@
-You've already voted to boot #{humanise target}!

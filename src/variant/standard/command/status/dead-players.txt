@@ -1,1 +1,0 @@
-The following players are dead: #{humanisePlayersWithRoles $ game ^.. players . traverse . dead}.

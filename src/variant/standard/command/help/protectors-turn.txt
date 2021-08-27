@@ -1,1 +1,0 @@
-- The #{humanise protectorRole} wakes up and protects someone.

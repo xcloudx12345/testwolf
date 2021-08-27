@@ -1,1 +1,0 @@
-Word has come in the night: #{humanise $ game ^. marks} are marked for death. Fulfil your purpose; ride hard and run them down.

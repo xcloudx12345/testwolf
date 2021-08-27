@@ -1,1 +1,0 @@
-#{humanise caller} voted to boot #{humanise target}!

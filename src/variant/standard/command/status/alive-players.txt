@@ -1,1 +1,0 @@
-The following players are still alive: #{humanise $ map humanisePlayerWithRoleIfKnown (game ^.. players . traverse . alive)}.

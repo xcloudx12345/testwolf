@@ -1,1 +1,0 @@
-The default Villager role becomes the #{humanise spitefulVillagerRole}.

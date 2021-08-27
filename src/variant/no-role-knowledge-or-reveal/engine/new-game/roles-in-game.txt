@@ -1,1 +1,0 @@
-The roles in play have a total balance of #{T.pack $ show totalBalance}.

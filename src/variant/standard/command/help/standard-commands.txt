@@ -1,3 +1,0 @@
-Standard commands:
-- `vote PLAYER`
-- `unvote`

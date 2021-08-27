@@ -1,1 +1,0 @@
-The Dullahan is given a list of player names at the start of the game. To win, they must eliminate all of them before the end of the game.

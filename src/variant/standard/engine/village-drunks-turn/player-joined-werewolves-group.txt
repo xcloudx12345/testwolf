@@ -1,1 +1,0 @@
-#{humanise villageDrunk} the #{humanise villageDrunkRole} has finally sobered up and remembered their true home.

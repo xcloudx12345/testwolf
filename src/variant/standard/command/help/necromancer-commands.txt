@@ -1,3 +1,0 @@
-#{humanise necromancerRole} commands:
-- `raise`
-- `pass`

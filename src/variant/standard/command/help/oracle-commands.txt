@@ -1,2 +1,0 @@
-#{humanise oracleRole} commands:
-- `divine PLAYER`

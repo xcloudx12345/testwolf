@@ -1,1 +1,0 @@
-The roles in play are #{humanise $ map (\(role, count) -> T.concat [humanise role, " (", T.pack $ show count, ")"]) roleCounts} for a total balance of #{T.pack $ show totalBalance}.

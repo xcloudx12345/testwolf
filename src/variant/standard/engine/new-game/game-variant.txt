@@ -1,1 +1,0 @@
-The game variant is set to "#{humanise $ game ^. variant}".

@@ -1,3 +1,0 @@
-You're #{article $ player ^. role} #{humanise $ player ^. role}.
-#{player ^. role . description}
-#{player ^. role . rules}
